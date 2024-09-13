@@ -1,0 +1,10 @@
+{
+	"test": {
+		"name": "test",
+		"link": "https://github.com"
+	},
+	"test 2": {
+		"name": "test 2",
+		"link": "https://robkent.github.io/random"
+	}
+}
